@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
-print "hola Pep"
-print "hola Jaume"
+print ("hola Pep")
+print ("hola Jaume")
